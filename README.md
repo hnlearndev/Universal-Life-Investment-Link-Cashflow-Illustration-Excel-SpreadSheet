@@ -1,7 +1,5 @@
 # CASHFLOW ILLUSTRATION FOR UNIVERSAL LIFE AND INVESTMENT LINK PRODUCT SPREADSHEET
 
-
-
 ## About The Project
 
 ### Intro
@@ -19,8 +17,8 @@ Eventually, an actuary might cross to the field of IT or Agency practises to del
 
 ### Purposes:
 - The tool is consolidated with the most versatile solution possible for Universal Life and Investment Link Product illustration.
-- The tool helps to ease the gap between spreadsheet and system implementation.
-
+- The tool acts as a backbone for system implementation: demo calculations, product features, sometimes supports special cases during actual sales process that limited by system presets.
+  
 More discussion on implementation can be found at [Empty]()
 
 ## Structure:
