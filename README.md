@@ -28,7 +28,7 @@ More discussion on implementation can be found at [Empty]()
 ## Getting started:
 - Require Excel version that has Office Script automate feature.
 - Office Script is capable of running cross-platform. In another word, unlike VBA which must run locally, this will work as long as there is an internet. However run speed online will be slower than running locally. Script is also speedier than VBA running locally.
-- Excel Online can also add a layer of security by deciding who can access the file, an who can access the script.
+- Excel Online can also add a layer of security by deciding who can access the file, as well as who can access the script.
 - The script is provided as *ilp_uvl_unified.ts* for your reference.
 
 ![Project Structure](img/overview.gif)
