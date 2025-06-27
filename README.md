@@ -7,7 +7,7 @@
 ### Intro
 The project is an Excel file powered with Office Script for speed of execution and cross platform feature. The file acts as a versatile tool to generate materials that are used to make actual insurance sales.
 
-If you are an actuary, consider this as an open-source that make your small taks a lot easier.
+If you are an actuary, consider this as an open-source that make your small tasks a lot easier.
 
 Further more, if you need a full translation to sytem OOP to deal with IT or 3rd parties, please visit [https://github.com/hnlearndev/Universal-Life-Investment-Link-Cashflow-Illustration-Rust.git](https://github.com/hnlearndev/Universal-Life-Investment-Link-Cashflow-Illustration-Rust.git)
 
