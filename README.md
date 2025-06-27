@@ -3,7 +3,7 @@
 ## About The Project
 
 ### Intro
-The project is an Excel file powered with Office Script for speed of execution and cross platform feature. The file acts as a versatile tool to generate materials that are used to make actual insurance sales.
+The project is an Excel file powered with Office Script for speed of execution and cross platform feature. The file acts as a versatile tool to generate materials that are used to make actual insurance sales materials.
 
 If you are an actuary, consider this as an open-source that make your small tasks a lot easier.
 
