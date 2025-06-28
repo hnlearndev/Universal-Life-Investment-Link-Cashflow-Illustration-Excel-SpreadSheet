@@ -21,7 +21,7 @@ Eventually, an actuary might cross to the field of IT or Agency practises to del
 
 - The tool is consolidated with the most versatile solution possible for Universal Life and Investment Link Product illustration.
 - The tool acts as a backbone for system implementation: demo calculations, product features, sometimes supports special cases during actual sales process that are limited by system presets.
-  
+
 More discussion on implementation can be found at [Empty]()
 
 ## Structure
@@ -49,3 +49,5 @@ More discussion on implementation can be found at [Empty]()
 Trung-Hieu Nguyen - [hieunt.hello@gmail.com](mailto:hieunt.hello@gmail.com)
 
 Project Link: [https://github.com/hnlearndev/Universal-Life-Investment-Link-Cashflow-Illustration-Excel-SpreadSheet.git](https://github.com/hnlearndev/Universal-Life-Investment-Link-Cashflow-Illustration-Excel-SpreadSheet.git)
+
+The quadratic formula is $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.
