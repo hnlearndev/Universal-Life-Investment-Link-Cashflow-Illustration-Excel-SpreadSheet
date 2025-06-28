@@ -11,7 +11,7 @@ Further more, if you need a full translation to sytem OOP to deal with IT or 3rd
 
 ### Obstacles:
 - Although being simple in its nature, yet the task is sufficiently complex once involved with different parties.
-Eventually, an actuary might cross to the field of IT or Agency practises to deliver his solution on such a small and niche topic.
+Eventually, an actuary might cross to the field of IT or Agency practises to deliver his/her solution on such a small and niche topic.
 - A vast differences between developing and developed market place emphasis on the task importance. In developing market, building things from the ground up creates an entirely different challenge set.
 - A single issue will escalate at speed of light and sizable impact. Many regulation problems usually comes from this. Especially in developing markets.
 
